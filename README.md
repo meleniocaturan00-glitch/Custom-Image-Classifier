@@ -3,6 +3,8 @@ https://colab.research.google.com/drive/1xat6LKK3eZvXicXw8TwKTYDRKGZukSz3?usp=sh
 
 https://drive.google.com/drive/folders/1ZQeKdOQdZI_aq6WwPuKjTWgirQwwszgj?usp=drive_link
 
+https://drive.google.com/file/d/1aiqP9rGOkzF11U2g_tu_MYj3ZfMbqBPG/view?usp=sharing
+
 Visualization & Overfitting
 
 1. What signs indicated overfitting in your first model?
