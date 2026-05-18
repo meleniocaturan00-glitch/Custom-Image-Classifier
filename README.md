@@ -1,5 +1,9 @@
 # Custom-Image-Classifier
+Collab:
+
 https://colab.research.google.com/drive/1xat6LKK3eZvXicXw8TwKTYDRKGZukSz3?usp=sharing
+
+Google Drive:
 
 https://drive.google.com/drive/folders/1ZQeKdOQdZI_aq6WwPuKjTWgirQwwszgj?usp=drive_link
 
