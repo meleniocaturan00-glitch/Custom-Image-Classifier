@@ -3,11 +3,13 @@ Collab:
 
 https://colab.research.google.com/drive/1xat6LKK3eZvXicXw8TwKTYDRKGZukSz3?usp=sharing
 
-Google Drive:
 
+Google Drive:
 https://drive.google.com/drive/folders/1ZQeKdOQdZI_aq6WwPuKjTWgirQwwszgj?usp=drive_link
 
-https://drive.google.com/file/d/1aiqP9rGOkzF11U2g_tu_MYj3ZfMbqBPG/view?usp=sharing
+Improve CNN Model:
+
+https://drive.google.com/file/d/1-fLpyV6rpOR48ZUMPIswnYFGY-TMIurV/view?usp=sharing
 
 Visualization & Overfitting
 
